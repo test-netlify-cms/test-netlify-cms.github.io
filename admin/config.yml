@@ -1,0 +1,4 @@
+backend:
+  name: github
+  repo: gungorbudak/test-site # whichever repo your admin system is going to be affecting
+  base_url: https://gh-oauth-dot-gungorbudakcom.appspot.com # the URL you got from the deploy command above
