@@ -7,4 +7,4 @@ rating: 2
 ---
 Here is my nature photo.
 
-![](/images/uploads/nature.jpg)
+![](/static/images/uploads/nature.jpg)
