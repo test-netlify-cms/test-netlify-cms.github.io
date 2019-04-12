@@ -3,7 +3,6 @@ backend:
   repo: test-netlify-cms/test-netlify-cms.github.io # whichever repo your admin system is going to be affecting
   base_url: https://gh-oauth-dot-gungorbudakcom.appspot.com # the URL you got from the deploy command above
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 collections:
   - name: "post" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
