@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: My nature photo
 date: 2019-04-12T20:27:58.702Z
 thumbnail: /images/uploads/nature.jpg
