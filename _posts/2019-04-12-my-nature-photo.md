@@ -6,3 +6,5 @@ thumbnail: /images/uploads/nature.jpg
 rating: 2
 ---
 Here is my nature photo.
+
+![](/images/uploads/nature.jpg)
